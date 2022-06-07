@@ -4,11 +4,11 @@ description: Lite, Basic, Premium membership
 
 # 지오펜스 단일 수정
 
-![](<../../.gitbook/assets/image (68).png>)
+![](<../../.gitbook/assets/image (88).png>)
 
 목록상 활성화 된 수정 클릭 수정페이지로 이동.
 
-![](<../../.gitbook/assets/image (87).png>)
+![](<../../.gitbook/assets/image (36).png>)
 
 1\) 이름을 수정할 수 있습니다.
 
@@ -18,7 +18,7 @@ description: Lite, Basic, Premium membership
 
 4\) 지오펜스 타입과 위치 선택을 수정할 수 있습니다.
 
-5\) ‘수정하기’ 버튼을 클릭하면 수정한 내용이 등록되고, \*\*\[목록 화면]\*\*으로 이동합니다.\
+5\) ‘수정하기’ 버튼을 클릭하면 수정한 내용이 등록되고, \[목록 화면]으로 이동합니다.\
 ‘취소' 버튼을 클릭하면 입력한 모든 정보가 사라지고 바로 이전페이지로 돌아갑니다.
 
 {% hint style="info" %}

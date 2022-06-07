@@ -6,7 +6,7 @@ description: 캠페인 생성>캠페인 위치 설정
 
 ## <mark style="color:blue;">**위치 설정(기본/주거지 캠페인)**</mark>
 
-![](<../../.gitbook/assets/image (102).png>)
+![](<../../.gitbook/assets/image (37).png>)
 
 **기본:** 설정된 위치에 캠페인 + 브랜드/매장/카테고리에 캠페인 진행
 
@@ -18,11 +18,11 @@ description: 캠페인 생성>캠페인 위치 설정
 
 ‘Locations > 지오펜스’ 또는 ‘Locations > 지오펜스 그룹'에서 설정한 지오펜스 목록이 제공됩니다.
 
-![](<../../.gitbook/assets/image (79).png>)
+![](<../../.gitbook/assets/image (38).png>)
 
 ### **지오펜스 목록**
 
-![](<../../.gitbook/assets/image (78).png>)
+![](<../../.gitbook/assets/image (74).png>)
 
 1<mark style="color:blue;">**.**</mark> 지오펜스 검색하기 단일 및 그룹 지오펜스 모두 검색 가능
 
@@ -38,7 +38,7 @@ description: 캠페인 생성>캠페인 위치 설정
 
 ### 지오펜스 그룹 목록
 
-![](<../../.gitbook/assets/image (90).png>)
+![](<../../.gitbook/assets/image (61).png>)
 
 1\. 폴리곤 갯수
 
@@ -50,7 +50,7 @@ description: 캠페인 생성>캠페인 위치 설정
 경고 아이콘은 ‘성공'한 지오펜스 외에 ‘실패’한 지오펜스가 있는 경우 제공되는 아이콘입니다. ‘실패'한 지오펜스가 있어도 ‘사용 가능’합니다.
 {% endhint %}
 
-![](<../../.gitbook/assets/image (51).png>)
+![](<../../.gitbook/assets/image (68).png>)
 
 등록한 지오펜스 그룹의 정보를 확인 할 수 있습니다.
 
@@ -70,9 +70,9 @@ description: 캠페인 생성>캠페인 위치 설정
 
 ### **지역 / 상권 선택**
 
-![](<../../.gitbook/assets/image (77).png>)
+![](<../../.gitbook/assets/image (16).png>)
 
-1**.** 행정 지역 설정 타이틀 영역
+1\. 행정 지역 설정 타이틀 영역
 
 2\. 3.에서 선택한 지역과 상권 정보를 확인할 수 있습니다.
 
@@ -83,7 +83,7 @@ description: 캠페인 생성>캠페인 위치 설정
 
 ### **브랜드 / 카테고리 / 매장 선택**
 
-![](<../../.gitbook/assets/image (53).png>)
+![](<../../.gitbook/assets/image (89).png>)
 
 1\. 앞선 OR조건에 And조건(브랜드/카테고리/매장)으로 추가됨
 
@@ -95,14 +95,14 @@ description: 캠페인 생성>캠페인 위치 설정
 
 ## <mark style="color:blue;">주거지</mark>
 
-![](<../../.gitbook/assets/image (50).png>)
+![](<../../.gitbook/assets/image (32).png>)
 
 주거지 캠페인은 설정된 행정구역의 주거지 지역에 캠페인 대상자가 방문했을때 캠페인 매칭이 됩니다. 단 지오펜스 및 상권, 브랜드/매장/카테고리 설정은 이용할 수 없습니다.
 
-![](<../../.gitbook/assets/image (91).png>)
+![](<../../.gitbook/assets/image (3).png>)
 
 #### **+ 위치 설정 추가(or 조건)**
 
 위치 설정 추가는 설정 1 조건을 통째로 추가할 수 있는 기능입니다. 다음 조건 추가시 or 조건으로 캠페인 매칭되며, 설정 뒤 조건에 번호가 부여됩니다. 최대 5개까지 추가할 수 있습니다.
 
-![](<../../.gitbook/assets/image (20).png>)
+![](<../../.gitbook/assets/image (4).png>)

@@ -6,7 +6,7 @@ description: Lite, Basic, Premium membership
 
 SDK 사용 모니터링은 사용자 앱에 설치된 SDK의 사용 대시보드입니다. 설정된 기간에 따른 활성 사용자 수 및 인식장소등의 요약을 확인할 수 있습니다.
 
-![](<../.gitbook/assets/image (17).png>)
+![](<../.gitbook/assets/image (90).png>)
 
 *   **전체 SDK 활성 사용자 수**
 

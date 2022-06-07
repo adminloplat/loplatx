@@ -8,13 +8,13 @@ description: 캠페인 생성>시간 설정
 
 ### 캠페인 기간 선택
 
-![](<../../.gitbook/assets/image (71).png>)
+![](<../../.gitbook/assets/image (41).png>)
 
 ‘캠페인 시작일’ - ‘캠페인 완료일’을 선택합니다. ‘X’버튼을 클릭하면 초기화됩니다. 캠페인 집행 시간은 국내를 기준으로 합니다.
 
 ### **캠페인 실행 시간대 선택**
 
-![](<../../.gitbook/assets/image (107).png>)
+![](<../../.gitbook/assets/image (84).png>)
 
 1\. 캠페인 시간 설정 조건을 추가할 수 있다. 단 중복된 요일은 선택할 수 없다.
 
@@ -24,7 +24,7 @@ description: 캠페인 생성>시간 설정
 
 ## <mark style="color:blue;">캠페인 실행 조건</mark>
 
-![](<../../.gitbook/assets/image (5).png>)
+![](<../../.gitbook/assets/image (14).png>)
 
 \- **설정한 ‘매장 신호 범위'에서 캠페인 실행**:\
 매장의 WiFi, 비콘 또는 기타 매장 신호 범위내에 캠페인 대상자가 도달하면 캠페인 매칭이 되는 조건입니다.\

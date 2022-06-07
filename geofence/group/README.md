@@ -4,17 +4,17 @@ description: Lite, Basic, Premium membership
 
 # 지오펜스 그룹
 
-![](<../../.gitbook/assets/image (85).png>)
+![](<../../.gitbook/assets/image (59).png>)
 
 **지오펜스 그룹은 여러개의 지오펜스를 그룹핑하여 CSV 또는 엑셀 파일로 업로드하여 설정합니다.**
 
 좌측 메뉴에서 **‘Locations > 지오펜스 그룹’** 메뉴를 클릭하면 지오펜스 그룹 등록을 위한 가이드 화면이 표시됩니다.
 
-![](<../../.gitbook/assets/image (42).png>)
+![](../../.gitbook/assets/image.png)
 
 **지오펜스 그룹은 아래 3가지 절차를 통해서 등록할 수 있습니다.**
 
-![](<../../.gitbook/assets/image (31) (1).png>)
+![](<../../.gitbook/assets/image (85).png>)
 
 ### **1. 이름 /설명 입력**
 
@@ -23,7 +23,7 @@ description: Lite, Basic, Premium membership
 
 ### 2. 파일 업로드
 
-![](<../../.gitbook/assets/image (48).png>)
+![](<../../.gitbook/assets/image (57).png>)
 
 {% hint style="warning" %}
 파일 업로드는 CSV, 엑셀(xls, xlsx) 파일만 가능합니다.
@@ -37,10 +37,10 @@ description: Lite, Basic, Premium membership
 정합성 체크 시 아래 양식과 다를 경우 등록이 되지 않을 수 있으니 항목 순서를 꼭 확인해주세요.
 
 {% hint style="info" %}
-**주소 기준으로 작성 시, 지오펜스 유형/반경/이름/번지 주소(또는 도로명 주소)**는 필수 입력 항목입니다.
+주소 기준으로 작성 시, 지오펜스 유형/반경/이름/번지 주소(또는 도로명 주소)는 필수 입력 항목입니다.
 {% endhint %}
 
-![](<../../.gitbook/assets/image (25).png>)
+![](<../../.gitbook/assets/image (82).png>)
 
 주소는 아래와 같은 조합으로 작성해주셔야 오류가 발생하지 않습니다.
 
@@ -64,7 +64,7 @@ description: Lite, Basic, Premium membership
 지오펜스 유형의 코드번호는 ‘1’이며, m 단위로 입력해야 합니다. 예) 1km인 경우 ‘1000’으로 입력
 {% endhint %}
 
-![](<../../.gitbook/assets/image (108) (1).png>)
+![](<../../.gitbook/assets/image (6).png>)
 
 {% hint style="info" %}
 **Polygon 기준으로 작성 시, 지오펜스 유형/Polygon/이름**은 필수 입력 항목입니다.\
@@ -72,13 +72,13 @@ description: Lite, Basic, Premium membership
 예) (127.11 37.11,127.22 37.11,127.22 37.22,127.11 37.22,127.11 37.11)
 {% endhint %}
 
-![](<../../.gitbook/assets/image (75).png>)
+![](<../../.gitbook/assets/image (56).png>)
 
 3\. 작성 후 저장하고 파일을 업로드 합니다.
 
 ### 3. 등록완료
 
-![](<../../.gitbook/assets/image (108).png>)
+![](<../../.gitbook/assets/image (54).png>)
 
 ‘생성하기’ 버튼을 클릭하면 등록이 되며, 아래 **\[목록 화면]**으로 이동합니다.\
 등록하고자 하는 데이터의 양에 따라서 1분에서 수십 분까지 소요될 수 있으며, 업로드 순으로 등록 완료됩니다.\
@@ -87,7 +87,7 @@ description: Lite, Basic, Premium membership
 
 ### 4. 지오펜스 그 목록
 
-![](<../../.gitbook/assets/image (61).png>)
+![](<../../.gitbook/assets/image (29).png>)
 
 1\) ‘생성하기’ 버튼을 클릭하면 지오펜스 그룹 등록 화면으로 이동합니다.
 
@@ -113,7 +113,7 @@ description: Lite, Basic, Premium membership
 
 9-1) 확대 아이콘을 클릭하면 해당 지오펜스의 \[지도뷰 팝업] 확인할 수 있습니다.
 
-![](<../../.gitbook/assets/image (109).png>)
+![](<../../.gitbook/assets/image (2).png>)
 
 {% hint style="info" %}
 등록한 지오펜스 그룹의 정보를 확인할 수 있습니다.

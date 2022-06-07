@@ -4,11 +4,11 @@ description: Basic, Premium membership
 
 # 세그먼트 생성
 
-![](<../.gitbook/assets/image (82).png>)
+![](<../.gitbook/assets/image (65).png>)
 
 **사용자 세그먼트는 아래 3가지 절차를 통해서 등록할 수 있습니다.**
 
-![](<../.gitbook/assets/image (102) (1).png>)
+![](<../.gitbook/assets/image (69).png>)
 
 ### **1. 이름/설명 입력**
 
@@ -27,7 +27,7 @@ description: Basic, Premium membership
 
 #### **1. 지역/상권 선택**
 
-![](<../.gitbook/assets/image (67).png>)
+![](<../.gitbook/assets/image (66).png>)
 
 1\. 선택한 지역과 상권 정보를 확인할 수 있습니다.
 
@@ -40,7 +40,7 @@ description: Basic, Premium membership
 
 #### 2. 브랜드/카테고리/매장 선택
 
-![](<../.gitbook/assets/image (103).png>)
+![](<../.gitbook/assets/image (62).png>)
 
 1\. 브랜드/매장을 직접 검색해서 선택할 수 있습니다.\
 ‘브랜드 찾기' 또는 ‘카테고리 찾기' 버튼을 클릭하면 팝업이 뜨며, 브랜드 또는 카테고리를 선택할 수 있습니다.\
@@ -54,7 +54,7 @@ description: Basic, Premium membership
 
 ### 4. 등록완료
 
-![](<../.gitbook/assets/image (33).png>)
+![](<../.gitbook/assets/image (13).png>)
 
 1\. 선택한 방문 기간 및 위치 조건에 해당하는 총 대상자를 확인할 수 있습니다.
 

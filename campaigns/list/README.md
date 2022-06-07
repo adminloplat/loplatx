@@ -6,7 +6,7 @@ description: Lite, Basic, Premium membership
 
 ### 캠페인 목록
 
-![](<../../.gitbook/assets/image (2).png>)
+![](<../../.gitbook/assets/image (70).png>)
 
 1. **생성하기**: 새로운 캠페인을 생성할 수 있다.
 2. **선택한 캠페인 삭제**: 7번 리스트상에 체크된 캠페인을 삭제할 수 있다.
@@ -25,7 +25,7 @@ description: Lite, Basic, Premium membership
     B캠페인 → ㄱ 지오펜스 그룹(circle 10, polygon 12) = 활성 지오펜스 22개\
     C캠페인 → ㄴ 지오펜스 + ㄱ 지오펜스 그룹 = 활성 지오펜스 23개
 
-    ![](<../../.gitbook/assets/image (97).png>)
+    <img src="../../.gitbook/assets/image%20(97).png" alt="" data-size="original">
 
     반대로 활성 지오펜스를 비활성화 하려면 캠페인 A,B를 대기시켜야 지오펜스 그룹이 비활성화 됩니다.\
     활성 지오펜스는 캠페인 리스트 우측 상단 상시 상태를 확인할 수 있으니 캠페인 운영시 참고 바랍니다.
@@ -33,7 +33,7 @@ description: Lite, Basic, Premium membership
 
 ### 목록
 
-![](<../../.gitbook/assets/image (4).png>)
+![](<../../.gitbook/assets/image (23).png>)
 
 1. **체크박스**: 캠페인을 선택/해제 가능하다.
 2. **ID**: 캠페인 고유 번호
@@ -56,12 +56,12 @@ description: Lite, Basic, Premium membership
 
 ### 캠페인 메시지 성과
 
-![](<../../.gitbook/assets/image (110).png>)
+![](<../../.gitbook/assets/image (46).png>)
 
 1. **'성과' 버튼**
 2. **캠페인 제목명**
 3. **사용자 세그먼트 수**: 캠페인에 설정된 세그먼트 수 입니다.
-4. ****[**해당 캠페인 방문 성과 보기** **바로 이동**](../report.md)****
+4. [**해당 캠페인 방문 성과 보기 바로 이동**](../report.md)
 5.  **메시지 도달/응답**
 
     1\) 메시지 도달/응답 선택 가능
@@ -101,7 +101,7 @@ description: Lite, Basic, Premium membership
     \- csv, jpg 형식으로 다운로드 가능
 6. **캠페인 기간 설정 CSV다운로드**
 
-![](<../../.gitbook/assets/image (9).png>)
+![](<../../.gitbook/assets/image (73).png>)
 
 1\. 캠페인 성과 다운로드 설정 버튼 입니다.
 
@@ -118,7 +118,7 @@ description: Lite, Basic, Premium membership
 
 ### 캠페인 기간 조회 및 다운
 
-![](<../../.gitbook/assets/image (3).png>)
+![](<../../.gitbook/assets/image (21).png>)
 
 1\. 캠페인 캘린더 다운 버튼을 활성화시 캠페인 전체 기간을 캘린더로 볼 수 있다.
 
@@ -137,7 +137,7 @@ description: Lite, Basic, Premium membership
 
 ### 다운로드 히스토리
 
-![](<../../.gitbook/assets/image (99).png>)
+![](<../../.gitbook/assets/image (19).png>)
 
 1\. 다운로드 히스토리 버튼을 누를 시 다음 화면이 표시 된다.
 

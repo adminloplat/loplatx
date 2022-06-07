@@ -6,7 +6,7 @@ description: Lite, Basic, Premium membership
 
 ### 캠페인 수정하기
 
-![](<../.gitbook/assets/image (98).png>)
+![](<../.gitbook/assets/image (81).png>)
 
 캠페인 목록에서 수정하고자 하는 캠페인에 마우스 오버시 캠페인 **수정** 버튼 활성화.
 
@@ -20,7 +20,7 @@ description: Lite, Basic, Premium membership
 
 ### 캠페인 설정 내용 변경하기
 
-![](<../.gitbook/assets/image (58).png>)
+![](<../.gitbook/assets/image (47).png>)
 
 수정화면 진입시, 기존 설정 내용을 모두 확인이 가능합니다.
 

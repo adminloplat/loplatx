@@ -6,7 +6,7 @@ description: Lite membership
 
 **라이트 멤버쉽 사용자의 한달간 loplat X 이용현황을 확인할 수 있습니다.**
 
-![](<../.gitbook/assets/image (80).png>)
+![](<../.gitbook/assets/image (20).png>)
 
 1\. 당월 / 이전 달 이용 현황을 볼 수 있습니다.
 

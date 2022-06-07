@@ -52,6 +52,10 @@ _<mark style="color:orange;">\*Lite 요금제 이용시 제공된 기본 메시�
 ### Guide update history
 
 {% hint style="info" %}
+22.03.08 v1.6.1
+
+* 캠페인 실행 타입 변경 - 광고ID, 메시지 설
+
 21.11.26 v2.0.0
 
 * loplat X 가이드 이전

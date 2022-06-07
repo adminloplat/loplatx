@@ -4,7 +4,7 @@ description: Basic, Premium membership
 
 # 세그먼트
 
-![](<../.gitbook/assets/image (11).png>)
+![](<../.gitbook/assets/image (22).png>)
 
 **사용자 세그먼트는 과거 방문 이력을 기반으로 캠페인 실행 대상 고객을 설정합니다.**\
 **지역, 상권, 브랜드, 카테고리, 매장별로 세그먼트를 설정할 수 있습니다.**

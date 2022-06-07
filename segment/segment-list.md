@@ -4,7 +4,7 @@ description: Basic, Premium membership
 
 # 세그먼트 목록
 
-![](<../.gitbook/assets/image (32).png>)
+![](<../.gitbook/assets/image (33).png>)
 
 1\. ‘생성하기’ 버튼을 클릭하면 사용자 세그먼트 등록 화면으로 이동합니다.
 

@@ -6,7 +6,7 @@ description: Lite, Basic, Premium membership
 
 ### 캠페인 복사하기
 
-![](<../.gitbook/assets/image (19).png>)
+![](<../.gitbook/assets/image (77).png>)
 
 캠페인 목록에서 복사하고자 하는 캠페인에 마우스 오버시 캠페인 **복사** 버튼 활성화.
 
@@ -18,7 +18,7 @@ description: Lite, Basic, Premium membership
 
 ### 캠페인 복사본 설정 내용 변경하기
 
-![](<../.gitbook/assets/image (47).png>)
+![](<../.gitbook/assets/image (60).png>)
 
 복사된 페이지 안에서 기존 캠페인의 모든 설정 조건을 재설정할 수 있습니다.
 

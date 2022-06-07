@@ -4,17 +4,17 @@ description: Lite, Basic, Premium membership
 
 # 지오펜스 단일
 
-![](<../../.gitbook/assets/image (27).png>)
+![](<../../.gitbook/assets/image (58).png>)
 
 **지오펜스 Circle은 특정 지점을 중심으로 반경 50m에서 수 10,000m까지 가상의 지오펜스를 설정할 수 있습니다. Polygon은 원하는 영역을 좌표로 찍으며 만들수 있고, 그 면적은 총면적 1,000 제곱키로미터를 넘을 수 없습니다. Circle과 Polygon 모두 국내, 해외 사용이 가능합니다. 또한, 타겟팅 하고자 하는 여러개의 지오펜스를 그룹핑하고 CSV 또는 엑셀 파일로 업로드하여 설정할 수 있습니다.**
 
 좌측 메뉴에서 **‘Locations > 지오펜스’** 메뉴를 클릭하면 지오펜스 등록을 위한 가이드 화면이 표시됩니다.
 
-![](<../../.gitbook/assets/image (56) (1).png>)
+![](<../../.gitbook/assets/image (92).png>)
 
 **지오펜스는 아래 3가지 절차를 통해서 등록할 수 있습니다.**
 
-![](<../../.gitbook/assets/image (96) (1).png>)
+![](<../../.gitbook/assets/image (7).png>)
 
 ### **1. 이름 /설명/고객사관리코드 입력**
 
@@ -33,7 +33,7 @@ description: Lite, Basic, Premium membership
 
 ### \[Circle 지역 설정]
 
-![](<../../.gitbook/assets/image (26).png>)
+![](<../../.gitbook/assets/image (53).png>)
 
 1\) 주소로 검색하면 해당 주소의 위치로 지도가 확대되어 보여집니다.\
 마우스로 지도를 클릭한 상태에서 이동하면 :round\_pushpin:표시 아이콘이 함께 이동하면서 다른 위치로 변경이 가능합니다.
@@ -49,13 +49,13 @@ description: Lite, Basic, Premium membership
 
 2\) 50m/100m/150m/200m/300m 기준으로 반경을 선택할 수 있으며, 사용자 지정을 클릭하면 m단위로 직접 조절 할 수 있습니다.
 
-![](<../../.gitbook/assets/image (104).png>)
+![](<../../.gitbook/assets/image (5).png>)
 
 3\) 전체화면을 클릭하여 큰 화면에서 넓게 서비스를 이용하실 수 있습니다.
 
 ### \[Polygon 지역 설정]
 
-![](<../../.gitbook/assets/image (37).png>)
+![](<../../.gitbook/assets/image (10).png>)
 
 1\) 우측의 ‘연필 아이콘’ 버튼을 클릭하고 목표 지역의 경계선을 그립니다.
 
@@ -65,24 +65,24 @@ description: Lite, Basic, Premium membership
 
 2\) '**+**' 버튼을 클릭하면 지도가 확대되어 보여집니다. ‘**-**’ 버튼을 클릭하면 지도가 축소되어 보여집니다.
 
-![](<../../.gitbook/assets/image (44) (1).png>)
+![](<../../.gitbook/assets/image (30).png>)
 
 폴리곤 완성시 마우스 우클릭 또는 ESC 버튼을 활용하여 완료 하며,\
 삭제 시 그린 지역을 선택하고 마우스 오른쪽 버튼을 클릭하면 ‘삭제' 버튼\
 또는 지도 상단바 :wastebasket:버튼을 활용하여 삭제하면 됩니다.
 
-![](<../../.gitbook/assets/image (43) (1).png>)
+![](<../../.gitbook/assets/image (51).png>)
 
 ### 3. 등록완료
 
-![](<../../.gitbook/assets/image (56).png>)
+![](<../../.gitbook/assets/image (8).png>)
 
-‘생성하기’ 버튼을 클릭하면 등록이 완료되며, 아래 **\[목록 화면]**으로 이동합니다.\
+‘생성하기’ 버튼을 클릭하면 등록이 완료되며, 아래 \[목록 화면]으로 이동합니다.\
 ‘취소' 버튼을 클릭하면 입력한 모든 정보가 사라지고 바로 이전 페이지로 돌아갑니다.
 
 ### 4. 지오펜스 단일 목록
 
-![](<../../.gitbook/assets/image (83).png>)
+![](<../../.gitbook/assets/image (18).png>)
 
 1\) ‘생성하기’ 버튼을 클릭하면 지오펜스 등록 화면으로 이동합니다.
 
@@ -110,7 +110,7 @@ description: Lite, Basic, Premium membership
 상태 클릭시: 현재 적용되어 활성화된 캠페인 목록을 확인할 수 있습니다.
 {% endhint %}
 
-![](<../../.gitbook/assets/image (114).png>)
+![](<../../.gitbook/assets/image (76).png>)
 
 10\) 지오펜스를 생성한 사용자입니다.
 

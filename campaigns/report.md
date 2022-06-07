@@ -4,13 +4,13 @@ description: Basic, Premium membership
 
 # 캠페인 방문 성과
 
-![](<../.gitbook/assets/image (54) (1).png>)
+![](<../.gitbook/assets/image (24).png>)
 
 ### **캠페인 방문 성과**
 
 캠페인 방문 성과는 진행한 캠페인을 통해 메세지 도달, 응답, 방문이 잘 이루어 졌는지 성과를 측정하는 기능입니다.캠페인 방문 성과 리포트를 통해 방문 성과를 확인해 보세요.
 
-![](<../.gitbook/assets/image (7) (1).png>)
+![](<../.gitbook/assets/image (83).png>)
 
 **캠페인 기간 + 방문자 추가 측정 기간**\
 \- 캠페인 시작 부터 종료일까지는 푸시메시지 도달, 응답, 방문 모두 카운트가 인정됩니다.\
@@ -22,7 +22,7 @@ description: Basic, Premium membership
 
 ### 캠페인 방문 성과 조회
 
-![](<../.gitbook/assets/image (95).png>)
+![](<../.gitbook/assets/image (93).png>)
 
 1. 캠페인 선택 - 단일(하루 이상 수집 항목)
 2. 캠페인 결과 조회 설정 - 지역 또는 브랜드 중 필수 선택1
@@ -34,7 +34,7 @@ description: Basic, Premium membership
 
 ### 캠페인 방문 성과 리포트
 
-![](<../.gitbook/assets/image (81).png>)
+![](<../.gitbook/assets/image (25).png>)
 
 1. **도달한 사용자수:** 캠페인 매칭 된 사람
 2. **응답한 사용자수:** 캠페인 매칭 된 사람 중 클릭한 사람
