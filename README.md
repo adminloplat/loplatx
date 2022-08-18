@@ -52,6 +52,12 @@ _<mark style="color:orange;">\*Lite 요금제 이용시 제공된 기본 메시�
 ### Guide update history
 
 {% hint style="info" %}
+22.08.18 v1.6.4
+
+* [캠페인 요약 추가](campaigns/list/#undefined-2)
+* 캠페인 리스트 > 캠페인 서브 메뉴 추가 - [방문 성과](campaigns/list/#undefined-1)
+* 캠페인 방문 성과 [설명 추가](campaigns/report.md#undefined-1)
+
 22.03.08 v1.6.1
 
 * 캠페인 실행 타입 변경 - [광고ID](https://loplat-loplat.gitbook.io/loplat-x/campaigns/create/default-setting#id-1), [메시지 설정](https://loplatx.gitbook.io/loplat-x-documents/campaigns/create/message-setting#undefined)

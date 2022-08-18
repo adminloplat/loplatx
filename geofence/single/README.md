@@ -55,7 +55,7 @@ description: Lite, Basic, Premium membership
 
 ### \[Polygon 지역 설정]
 
-![](<../../.gitbook/assets/image (10).png>)
+![](<../../.gitbook/assets/image (10) (1).png>)
 
 1\) 우측의 ‘연필 아이콘’ 버튼을 클릭하고 목표 지역의 경계선을 그립니다.
 
