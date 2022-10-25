@@ -54,7 +54,7 @@ _<mark style="color:orange;">\*Lite 요금제 이용시 제공된 기본 메시�
 {% hint style="info" %}
 22.10.25 v1.6.5
 
-* A/B 테스트 메시지 추가
+* [A/B 테스트 메시지 추가](https://loplat-loplat.gitbook.io/loplat-x/campaigns/create/message-setting#undefined-1)
 
 22.08.18 v1.6.4
 

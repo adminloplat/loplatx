@@ -64,7 +64,7 @@ description: Lite, Basic, Premium membership
 지오펜스 유형의 코드번호는 ‘1’이며, m 단위로 입력해야 합니다. 예) 1km인 경우 ‘1000’으로 입력
 {% endhint %}
 
-![](<../../.gitbook/assets/image (6) (1).png>)
+![](<../../.gitbook/assets/image (6).png>)
 
 {% hint style="info" %}
 **Polygon 기준으로 작성 시, 지오펜스 유형/Polygon/이름**은 필수 입력 항목입니다.\

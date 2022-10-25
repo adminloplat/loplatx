@@ -22,7 +22,7 @@ description: 캠페인 생성 > 캠페인 메시지 설정
 
 ### **TEXT 알림**
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
 
 1\. 문자로 된 Push 알림을 사용할 경우 선택합니다.
 
@@ -48,7 +48,7 @@ APP 호출 - 스토어에 앱 등록할 때 iOS의 스토리보드명 또는 And
 
 ### **TEXT+IMAGE 알림**
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
 
 1.문자+이미지로 된 Push 알림을 사용할 경우 선택합니다.
 

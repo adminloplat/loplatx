@@ -33,7 +33,7 @@ description: Lite, Basic, Premium membership
 
 ### 목록
 
-![](<../../.gitbook/assets/image (3) (2).png>)
+![](<../../.gitbook/assets/image (3).png>)
 
 1. **체크박스**: 캠페인을 선택/해제 가능하다.
 2. **ID**: 캠페인 고유 번호
@@ -59,11 +59,11 @@ description: Lite, Basic, Premium membership
 
 ### 캠페인 요약
 
-![](<../../.gitbook/assets/image (1) (1).png>)
+![](<../../.gitbook/assets/image (1).png>)
 
 캠페인 리스트에서 캠페인명을 클릭시 캠페인 요약 페이지로 이동합니다.
 
-![](<../../.gitbook/assets/image (6).png>)
+![](<../../.gitbook/assets/image (7).png>)
 
 #### 캠페인 요약
 
@@ -72,7 +72,7 @@ description: Lite, Basic, Premium membership
 
 ### 캠페인 메시지 성과
 
-![](<../../.gitbook/assets/image (2) (2).png>)
+![](<../../.gitbook/assets/image (2).png>)
 
 1. **'성과' 버튼**
 2. **캠페인 제목명**
@@ -117,9 +117,9 @@ description: Lite, Basic, Premium membership
     \- csv, jpg 형식으로 다운로드 가능
 6. **메시지 성과 확인**
 
-<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption><p>일반 메시지</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption><p>일반 메시지</p></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption><p>A/B 테스트 메시지</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (11).png" alt=""><figcaption><p>A/B 테스트 메시지</p></figcaption></figure>
 
 메시지 성과는 일반 메시지와 A/B 메시지 성과 모두 확인이 가능합니다.
 

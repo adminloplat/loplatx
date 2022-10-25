@@ -14,7 +14,7 @@ description: Lite, Basic, Premium membership
 
 **지오펜스는 아래 3가지 절차를 통해서 등록할 수 있습니다.**
 
-![](<../../.gitbook/assets/image (7).png>)
+![](<../../.gitbook/assets/image (7) (1).png>)
 
 ### **1. 이름 /설명/고객사관리코드 입력**
 
@@ -49,7 +49,7 @@ description: Lite, Basic, Premium membership
 
 2\) 50m/100m/150m/200m/300m 기준으로 반경을 선택할 수 있으며, 사용자 지정을 클릭하면 m단위로 직접 조절 할 수 있습니다.
 
-![](<../../.gitbook/assets/image (5).png>)
+![](<../../.gitbook/assets/image (5) (1).png>)
 
 3\) 전체화면을 클릭하여 큰 화면에서 넓게 서비스를 이용하실 수 있습니다.
 
