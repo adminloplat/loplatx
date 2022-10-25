@@ -22,48 +22,58 @@ description: 캠페인 생성 > 캠페인 메시지 설정
 
 ### **TEXT 알림**
 
-![](<../../.gitbook/assets/image (64).png>)
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 1\. 문자로 된 Push 알림을 사용할 경우 선택합니다.
 
-2\. 고객에게 전송할 메시지 제목을 입력합니다.\
+2\. A/B 테스트 설정: A/B 메시지는 캠페인 조건에 부합되는 사용자들에게 5:5 비율로 발송됩니다. (A)메시지는 컨트롤, (B)메시지는 변형으로 어떤 메시지가 더 사용자들에게 효율이 높은지 메시지 측정이 가능합니다
+
+* On: A/B 테스트 활성화. 설정하단에 A메시지와 B메시지 설정이 가능.
+* Off: 단일 메시지 활성화. 1개의 메시지로 캠페인 진행
+
+3\. 고객에게 전송할 메시지 제목을 입력합니다.\
 <mark style="color:orange;">- 텍스트 제한 최대26자</mark>\ <mark style="color:orange;">- 텍스트, 특수문자, 띄어쓰기 1자, 이모지 2자</mark>
 
-3\. 고객에게 전송할 메시지 내용을 입력합니다.\
+4\. 고객에게 전송할 메시지 내용을 입력합니다.\
 <mark style="color:orange;">- 텍스트 제한 최대112자</mark>\ <mark style="color:orange;">- 텍스트, 특수문자, 띄어쓰기 1자, 이모지 2자</mark>
 
-4\. 웹페이지 또는 모바일앱으로 호출할 주소를 입력합니다.\
+5\. 웹페이지 또는 모바일앱으로 호출할 주소를 입력합니다.\
 OS, Android Web 호출 - 예) [https://www.loplat.com](https://www.loplat.com)\
 APP 호출 - 스토어에 앱 등록할 때 iOS의 스토리보드명 또는 Android의 APP 패키지명을 입력합니다.\
 예) inapp://com.loplat.myapp
 
-4-1. 타겟 APP에서 선택한 APP 이름이 표시됩니다.
+* 타겟 APP에서 선택한 APP 이름이 표시됩니다.
 
-5\. 입력한 메시지 제목/내용의 정보를 확인할 수 있습니다.
+6\. 입력한 메시지 제목/내용의 정보를 확인할 수 있습니다.
 
 ### **TEXT+IMAGE 알림**
 
-![](<../../.gitbook/assets/image (27).png>)
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 1.문자+이미지로 된 Push 알림을 사용할 경우 선택합니다.
 
-2\. 고객에게 전송할 메시지 제목을 입력합니다.\
+2\. A/B 테스트 설정: A/B 메시지는 캠페인 조건에 부합되는 사용자들에게 5:5 비율로 발송됩니다. (A)메시지는 컨트롤, (B)메시지는 변형으로 어떤 메시지가 더 사용자들에게 효율이 높은지 메시지 측정이 가능합니다
+
+* On: A/B 테스트 활성화. 설정하단에 A메시지와 B메시지 설정이 가능.
+* Off: 단일 메시지 활성화. 1개의 메시지로 캠페인 진행
+
+3\. 고객에게 전송할 메시지 제목을 입력합니다.\
 <mark style="color:orange;">- 텍스트 제한 최대26자</mark>\ <mark style="color:orange;">- 텍스트, 특수문자, 띄어쓰기 1자, 이모지 2자</mark>
 
-3\. 고객에게 전송할 메시지 내용을 입력합니다.\
+4\. 고객에게 전송할 메시지 내용을 입력합니다.\
 <mark style="color:orange;">- 텍스트 제한 최대112자</mark>\ <mark style="color:orange;">- 텍스트, 특수문자, 띄어쓰기 1자, 이모지 2자</mark>
 
-4\. 웹페이지 또는 모바일앱으로 호출할 이미지 주소를 입력합니다.\
+5\. 웹페이지 또는 모바일앱으로 호출할 이미지 주소를 입력합니다.\
 권장 이미지 크기 : 1,328px x 664px (2:1)\
 웹이미지 - 예) [https://www.loplat.com/img/banner.jpg](https://www.loplat.com/img/banner.jpg)
 
-5\. 웹페이지 또는 모바일앱으로 호출할 주소를 입력합니다.\
+6\. 웹페이지 또는 모바일앱으로 호출할 주소를 입력합니다.\
 OS, Android Web 호출 - 예) http:// or [https://www.loplat.com](https://www.loplat.com)\
 APP 호출 - 예) loplat://event-page?id=20\&type=notice
 
-5-1. 타겟 APP에서 선택한 APP 이름이 표시됩니다.
+* 타겟 APP에서 선택한 APP 이름이 표시됩니다.
 
-6\. 입력한 메시지 제목/내용/이미지의 정보를 확인할 수 있습니다.
+7\. 입력한 메시지 제목/내용/이미지의 정보를 확인할 수 있습니다.
 
 ## <mark style="color:blue;">캠페인 요약 확인</mark>
 
