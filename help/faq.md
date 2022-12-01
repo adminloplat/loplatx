@@ -5,6 +5,12 @@ description: Lite, Basic, Premium membership
 # FAQ
 
 {% hint style="info" %}
+**캠페인 알림 설정은 어떻게 하나요?**
+{% endhint %}
+
+> 캠페인 알림 설정은 \[Setting] - \[내 정보 관리] - \[이메일 알림 설정]에서 이메일 변경 및 On/Off 설정이 가능하며, 세부적으로 캠페인 생성 알림(관리자) 시작(관리자,일반), 종료전(관리자,일반), 종료(관리자,일반) 알림 설정이 가능합니다.
+
+{% hint style="info" %}
 **서비스 최초 이용 및 업그레이드는 어떻게 하나요?**
 {% endhint %}
 

@@ -52,6 +52,11 @@ _<mark style="color:orange;">\*Lite 요금제 이용시 제공된 기본 메시�
 ### Guide update history
 
 {% hint style="info" %}
+22.12.01 v1.6.6
+
+* 캠페인 이메일 알림
+* [캠페인 위치기반 개인화 메시지](https://loplat-loplat.gitbook.io/loplat-x/campaigns/create/message-setting#text)
+
 22.10.25 v1.6.5
 
 * [A/B 테스트 메시지 추가](https://loplat-loplat.gitbook.io/loplat-x/campaigns/create/message-setting#undefined-1)
