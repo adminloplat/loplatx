@@ -22,7 +22,7 @@ description: 캠페인 생성 > 캠페인 메시지 설정
 
 ### **TEXT 알림**
 
-<figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
 
 1\. 문자로 된 Push 알림을 사용할 경우 선택합니다.
 
@@ -33,6 +33,27 @@ description: 캠페인 생성 > 캠페인 메시지 설정
 
 3\. 고객에게 전송할 메시지 제목을 입력합니다.\
 <mark style="color:orange;">- 텍스트 제한 최대26자</mark>\ <mark style="color:orange;">- 텍스트, 특수문자, 띄어쓰기 1자, 이모지 2자</mark>
+
+3-1. 개인화 메시지(Beta 서비스)
+
+개인화 메시지를 통해 위치 기반 메시지를 강화할 수 있습니다. 한개의 캠페인에서 푸시 메시지를 개인화함으로 강력한 메시지를 고객에게 보낼 수 있습니다. 개인화 메시지 코드 추가 갯수는 제한이 없습니다.&#x20;
+
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+
+&#x20;   (1) 개인화 코드 선택:&#x20;
+
+| 개인화 종류        | 개인화 코드              |
+| ------------- | ------------------- |
+| 지역명: 광역시/도 단위 | ${district\_state}  |
+| 지역명: 시/구 단위   | ${district\_city}   |
+| 지역명: 동 단위     | ${district\_street} |
+| 브랜드명          | ${brand}            |
+| 매장명           | ${store}            |
+| 지오펜스명         | ${geofence}         |
+
+&#x20;   (2) 미리보기: 미리보기를 통해 개인화 코드가 메시지 어디에 위치하는지 확인할 수 있습니다.
+
+&#x20;   (3) 미리보기에서는 편집이 진행되지 않습니다. ▼표는 커서 위치입니다.
 
 4\. 고객에게 전송할 메시지 내용을 입력합니다.\
 <mark style="color:orange;">- 텍스트 제한 최대112자</mark>\ <mark style="color:orange;">- 텍스트, 특수문자, 띄어쓰기 1자, 이모지 2자</mark>
@@ -48,7 +69,7 @@ APP 호출 - 스토어에 앱 등록할 때 iOS의 스토리보드명 또는 And
 
 ### **TEXT+IMAGE 알림**
 
-<figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
 
 1.문자+이미지로 된 Push 알림을 사용할 경우 선택합니다.
 
@@ -59,6 +80,8 @@ APP 호출 - 스토어에 앱 등록할 때 iOS의 스토리보드명 또는 And
 
 3\. 고객에게 전송할 메시지 제목을 입력합니다.\
 <mark style="color:orange;">- 텍스트 제한 최대26자</mark>\ <mark style="color:orange;">- 텍스트, 특수문자, 띄어쓰기 1자, 이모지 2자</mark>
+
+3-1. 텍스트 알림 참고
 
 4\. 고객에게 전송할 메시지 내용을 입력합니다.\
 <mark style="color:orange;">- 텍스트 제한 최대112자</mark>\ <mark style="color:orange;">- 텍스트, 특수문자, 띄어쓰기 1자, 이모지 2자</mark>
