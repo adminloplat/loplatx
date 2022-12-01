@@ -81,7 +81,7 @@ APP 호출 - 스토어에 앱 등록할 때 iOS의 스토리보드명 또는 And
 3\. 고객에게 전송할 메시지 제목을 입력합니다.\
 <mark style="color:orange;">- 텍스트 제한 최대26자</mark>\ <mark style="color:orange;">- 텍스트, 특수문자, 띄어쓰기 1자, 이모지 2자</mark>
 
-3-1. [텍스트 알림 참고](https://loplat-loplat.gitbook.io/loplat-x/campaigns/create/message-setting#text)
+3-1. 텍스트 알림 참고
 
 4\. 고객에게 전송할 메시지 내용을 입력합니다.\
 <mark style="color:orange;">- 텍스트 제한 최대112자</mark>\ <mark style="color:orange;">- 텍스트, 특수문자, 띄어쓰기 1자, 이모지 2자</mark>
