@@ -8,6 +8,7 @@ description: 캠페인 생성 > 캠페인 메시지 설정
 
 ![](<../../.gitbook/assets/image (71).png>)
 
+\- **테스트 모드 :** 무제한 테스트 **** \
 \- **1일 1회** : 캠페인 기간 동안 ‘하루에 한번’ 메시지 발송\
 \- **기간 내 1회만** : 캠페인 기간 동안 ‘단 한번’ 메시지 발송\
 \- **발송 후 00시간 00분 경과 후 재발송** : 방문한 장소에 머물러 있는 동안 ‘00시간 00분 경과 후’ 메시지 재발송
@@ -81,7 +82,7 @@ APP 호출 - 스토어에 앱 등록할 때 iOS의 스토리보드명 또는 And
 3\. 고객에게 전송할 메시지 제목을 입력합니다.\
 <mark style="color:orange;">- 텍스트 제한 최대26자</mark>\ <mark style="color:orange;">- 텍스트, 특수문자, 띄어쓰기 1자, 이모지 2자</mark>
 
-3-1. 텍스트 알림 참고
+3-1. [텍스트 알림 참고](https://loplat-loplat.gitbook.io/loplat-x/campaigns/create/message-setting#text)
 
 4\. 고객에게 전송할 메시지 내용을 입력합니다.\
 <mark style="color:orange;">- 텍스트 제한 최대112자</mark>\ <mark style="color:orange;">- 텍스트, 특수문자, 띄어쓰기 1자, 이모지 2자</mark>
