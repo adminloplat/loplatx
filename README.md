@@ -22,7 +22,7 @@ description: Lite, Basic, Premium membership
 {% endtab %}
 
 {% tab title="LITE" %}
-* <mark style="color:blue;">실시간 캠페인 메시지 발송(기본 10,000건 제공)</mark>
+* <mark style="color:blue;">실시간 캠페인 메시지 발송(기본 100,000건 제공)</mark>
 * <mark style="color:blue;">캠페인 성과 월간 레포트 제공</mark>
 * <mark style="color:blue;">커스텀 지오펜스 최대 100개 등록 및 사용</mark>
 
