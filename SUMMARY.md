@@ -41,3 +41,7 @@
 
 * [FAQ](help/faq.md)
 * [문의하기](help/undefined.md)
+
+## 🔗 외부연동 <a href="#integration" id="integration"></a>
+
+* [braze 연동하기](integration/braze.md)
