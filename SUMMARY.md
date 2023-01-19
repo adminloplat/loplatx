@@ -32,6 +32,10 @@
 * [지오펜스 그룹](geofence/group/README.md)
   * [지오펜스 그룹 수정](geofence/group/edit.md)
 
+## 🔗 외부연동 <a href="#integration" id="integration"></a>
+
+* [braze 연동하기](integration/braze.md)
+
 ## 🖥 Usage Monitoring
 
 * [SDK 사용 현황](usage-monitoring/sdk.md)
@@ -41,7 +45,3 @@
 
 * [FAQ](help/faq.md)
 * [문의하기](help/undefined.md)
-
-## 🔗 외부연동 <a href="#integration" id="integration"></a>
-
-* [braze 연동하기](integration/braze.md)
