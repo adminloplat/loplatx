@@ -12,7 +12,7 @@
   * [캠페인 위치 설정](campaigns/create/location-setting.md)
   * [캠페인 시간 및 실행 조건 설정](campaigns/create/time-setting.md)
   * [캠페인 메시지 설정](campaigns/create/message-setting.md)
-  * [캠페인 연동](campaigns/create/undefined.md)
+  * [캠페인 연동](campaigns/create/campaign-intergration.md)
 * [캠페인 수정](campaigns/edit.md)
 * [캠페인 복사](campaigns/copy.md)
 * [캠페인 방문 성과](campaigns/report.md)
