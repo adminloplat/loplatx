@@ -52,6 +52,11 @@ _<mark style="color:orange;">\*Lite 요금제 이용시 제공된 기본 메시�
 ### Guide update history
 
 {% hint style="info" %}
+23.01.20 v1.6.7
+
+* braze dashboard 연동
+* braze 캠페인 연계방법
+
 22.12.01 v1.6.6
 
 * [캠페인 이메일 알림](https://loplat-loplat.gitbook.io/loplat-x/help/faq)
