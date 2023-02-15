@@ -23,7 +23,7 @@ description: 캠페인 생성 > 캠페인 메시지 설정
 
 ### **TEXT 알림**
 
-<figure><img src="../../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (7) (3).png" alt=""><figcaption></figcaption></figure>
 
 1\. 문자로 된 Push 알림을 사용할 경우 선택합니다.
 
