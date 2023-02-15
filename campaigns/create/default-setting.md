@@ -67,7 +67,7 @@ description: 캠페인 생성>캠페인 기본 설정
 
 **ADID, IDFA 확인 방법**
 
-![](<../../.gitbook/assets/image (28).png>)
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 ![](<../../.gitbook/assets/image (50).png>)
 
