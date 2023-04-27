@@ -8,7 +8,7 @@ description: 캠페인 생성 > 캠페인 메시지 설정
 
 ![](<../../.gitbook/assets/image (71).png>)
 
-\- **테스트 모드 :** 무제한 테스트 **** \
+\- **테스트 모드 :** 무제한 테스트  \
 \- **1일 1회** : 캠페인 기간 동안 ‘하루에 한번’ 메시지 발송\
 \- **기간 내 1회만** : 캠페인 기간 동안 ‘단 한번’ 메시지 발송\
 \- **발송 후 00시간 00분 경과 후 재발송** : 방문한 장소에 머물러 있는 동안 ‘00시간 00분 경과 후’ 메시지 재발송
@@ -17,13 +17,13 @@ description: 캠페인 생성 > 캠페인 메시지 설정
 
 ### **알림 사용 안함**
 
-![](<../../.gitbook/assets/image (67).png>)
+{% embed url="https://www.figma.com/file/oxgw6UWN3IJG7vqysjB9vD/2022_loplat_X_figma?node-id=13561:80557&t=lBuivczHnMndWiE9-1" %}
 
 **알림 사용 안함**은 기본적으로 발송된 App내에서 아무런 이벤트가 발생하지 않으며, 사용자(발송자)는 발송 건수 확인이 가능합니다. 단 App 개발 과정에서 사용자의 개발에 따라 이벤트 표현은 조절이 가능합니다.
 
 ### **TEXT 알림**
 
-<figure><img src="../../.gitbook/assets/image (7) (3).png" alt=""><figcaption></figcaption></figure>
+{% embed url="https://www.figma.com/file/oxgw6UWN3IJG7vqysjB9vD/2022_loplat_X_figma?node-id=13561:80731&t=lBuivczHnMndWiE9-1" %}
 
 1\. 문자로 된 Push 알림을 사용할 경우 선택합니다.
 
@@ -70,7 +70,7 @@ APP 호출 - 스토어에 앱 등록할 때 iOS의 스토리보드명 또는 And
 
 ### **TEXT+IMAGE 알림**
 
-<figure><img src="../../.gitbook/assets/image (5) (3).png" alt=""><figcaption></figcaption></figure>
+{% embed url="https://www.figma.com/file/oxgw6UWN3IJG7vqysjB9vD/2022_loplat_X_figma?node-id=13561:80965&t=lBuivczHnMndWiE9-1" %}
 
 1.문자+이미지로 된 Push 알림을 사용할 경우 선택합니다.
 
@@ -100,8 +100,6 @@ APP 호출 - 예) loplat://event-page?id=20\&type=notice
 7\. 입력한 메시지 제목/내용/이미지의 정보를 확인할 수 있습니다.
 
 ## <mark style="color:blue;">캠페인 요약 확인</mark>
-
-![](<../../.gitbook/assets/image (34).png>)
 
 설정한 모든 정보를 한눈에 확인할 수 있습니다. 꼼꼼하게 정보 확인 후 캠페인 생성을 완료해 주세요.
 
