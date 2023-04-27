@@ -20,8 +20,6 @@ description: Lite, Basic, Premium membership
 
 ### 캠페인 설정 내용 변경하기
 
-![](<../.gitbook/assets/image (47).png>)
-
 수정화면 진입시, 기존 설정 내용을 모두 확인이 가능합니다.
 
 **캠페인 시작일 전 수정:** 모든 설정을 수정하실 수 있습니다.
