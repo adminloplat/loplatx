@@ -18,8 +18,6 @@ description: Lite, Basic, Premium membership
 
 ### 캠페인 복사본 설정 내용 변경하기
 
-![](<../.gitbook/assets/image (60).png>)
-
 복사된 페이지 안에서 기존 캠페인의 모든 설정 조건을 재설정할 수 있습니다.
 
 {% hint style="warning" %}
