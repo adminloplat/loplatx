@@ -74,7 +74,7 @@ description: Lite, Basic, Premium membership
 
 ### 캠페인 메시지 성과
 
-![](<../../.gitbook/assets/image (2).png>)
+{% embed url="https://www.figma.com/file/oxgw6UWN3IJG7vqysjB9vD/2022_loplat_X_figma?node-id=0:9665&t=HYvSZolweuiCD9mu-1&type=design" %}
 
 1. **'성과' 버튼**
 2. **캠페인 제목명:** 캠페인 설정 디테일 확인
