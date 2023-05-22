@@ -24,7 +24,7 @@ description: 캠페인 생성>시간 설정
 
 ## <mark style="color:blue;">캠페인 실행 조건</mark>
 
-![](<../../.gitbook/assets/image (14).png>)
+![](<../../.gitbook/assets/image (14) (1).png>)
 
 \- **설정한 ‘매장 신호 범위'에서 캠페인 실행**:\
 매장의 WiFi, 비콘 또는 기타 매장 신호 범위내에 캠페인 대상자가 도달하면 캠페인 매칭이 되는 조건입니다.\

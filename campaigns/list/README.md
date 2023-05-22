@@ -35,7 +35,7 @@ description: Lite, Basic, Premium membership
 
 ### 목록
 
-![](<../../.gitbook/assets/image (3).png>)
+![](<../../.gitbook/assets/image (3) (2).png>)
 
 1. **체크박스**: 캠페인을 선택/해제 가능하다.
 2. **ID**: 캠페인 고유 번호

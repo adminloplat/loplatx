@@ -39,7 +39,7 @@ description: 캠페인 생성 > 캠페인 메시지 설정
 
 개인화 메시지를 통해 위치 기반 메시지를 강화할 수 있습니다. 한개의 캠페인에서 푸시 메시지를 개인화함으로 강력한 메시지를 고객에게 보낼 수 있습니다. 개인화 메시지 코드 추가 갯수는 제한이 없습니다.&#x20;
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (3).png" alt=""><figcaption></figcaption></figure>
 
 &#x20;   (1) 개인화 코드 선택:&#x20;
 

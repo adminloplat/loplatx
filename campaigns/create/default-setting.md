@@ -21,17 +21,18 @@ description: 캠페인 생성>캠페인 기본 설정
 
 미리 설정한 세그먼트가 없을 경우에는 **‘모든 사용자’**가 기본으로 제공됩니다.
 
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
 ![](<../../.gitbook/assets/image (52).png>)
 
-1<mark style="color:blue;">.</mark> 설정한 사용자 세그먼트 이름입니다.
-
-2\. 설정한 사용자 세그먼트의 조건에 해당하는 총 사용자 수 입니다.
-
-3\. 목록에서 선택한 세그먼트에 해당하는 총 사용자 수를 확인할 수 있습니다.
+1. 블랙리스트 적용하기: 캠페인 리스트에서 작성한 블랙리스트를 해당 캠페인에 적용하는 기능입니다
+2. 설정한 사용자 세그먼트 이름입니다.
+3. 설정한 사용자 세그먼트의 조건에 해당하는 총 사용자 수 입니다.
+4. 목록에서 선택한 세그먼트에 해당하는 총 사용자 수를 확인할 수 있습니다.
 
 #### <mark style="color:blue;">**\[세그먼트 선택]**</mark>
 
-![](<../../.gitbook/assets/image (80).png>)
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 1\. 사용자 세그먼트에서 설정한 방문 활동 기간입니다.
 
@@ -39,7 +40,7 @@ description: 캠페인 생성>캠페인 기본 설정
 
 ### **광고 ID 설정 방법**
 
-![](<../../.gitbook/assets/image (44).png>)
+<figure><img src="../../.gitbook/assets/image (14).png" alt=""><figcaption></figcaption></figure>
 
 #### <mark style="color:blue;">'광고 ID'란</mark>
 
@@ -67,7 +68,7 @@ description: 캠페인 생성>캠페인 기본 설정
 
 **ADID, IDFA 확인 방법**
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
 ![](<../../.gitbook/assets/image (50).png>)
 
