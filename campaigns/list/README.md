@@ -6,7 +6,7 @@ description: Lite, Basic, Premium membership
 
 ### 캠페인 목록
 
-![](<../../.gitbook/assets/image (70).png>)
+{% embed url="https://www.figma.com/file/oxgw6UWN3IJG7vqysjB9vD/2022_loplat_X_figma?node-id=0:6566&t=HYvSZolweuiCD9mu-1&type=design" %}
 
 1. **생성하기**: 새로운 캠페인을 생성할 수 있다.
 2. **선택한 캠페인 삭제**: 7번 리스트상에 체크된 캠페인을 삭제할 수 있다.
@@ -25,11 +25,13 @@ description: Lite, Basic, Premium membership
     B캠페인 → ㄱ 지오펜스 그룹(circle 10, polygon 12) = 활성 지오펜스 22개\
     C캠페인 → ㄴ 지오펜스 + ㄱ 지오펜스 그룹 = 활성 지오펜스 23개
 
-    <img src="../../.gitbook/assets/image%20(97).png" alt="" data-size="original">
+
 
     반대로 활성 지오펜스를 비활성화 하려면 캠페인 A,B를 대기시켜야 지오펜스 그룹이 비활성화 됩니다.\
     활성 지오펜스는 캠페인 리스트 우측 상단 상시 상태를 확인할 수 있으니 캠페인 운영시 참고 바랍니다.
-7. **캠페인 리스트 페이지**: 이전 캠페인 리스틀 확인할 수 있다.
+7. **캠페인 리스트 페이지**: 생성한 캠페인 리스트를 확인할 수 있습니다.
+8. 페이지를 넘길 수 있습니다.
+9. **블랙리스트 관리:** 캠페인 실행시, 캠페인에서 제외할 고객을 관리하는 기능입니다. ADID 또는 Echocode 등록시 캠페인에서 제외됩니다.
 
 ### 목록
 
