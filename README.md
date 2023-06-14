@@ -54,7 +54,7 @@ _<mark style="color:orange;">\*Lite 요금제 이용시 제공된 기본 메시�
 {% hint style="info" %}
 23.05.22 v1.7.0
 
-* 블랙리스트 관리 가이드 추가
+* [블랙리스트 관리 가이드 추가](campaigns/create/default-setting.md#undefined-1)
 
 23.01.20 v1.6.7
 
