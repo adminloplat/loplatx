@@ -4,11 +4,11 @@ description: 캠페인 생성>캠페인 위치 설정
 
 # 캠페인 위치 설정
 
-## <mark style="color:blue;">**위치 설정(기본/주거지 캠페인)**</mark>
+## <mark style="color:blue;">**위치 설정(일반/주거지 캠페인)**</mark>
 
-![](<../../.gitbook/assets/image (37).png>)
+<figure><img src="../../.gitbook/assets/image (29).png" alt="" width="375"><figcaption></figcaption></figure>
 
-**기본:** 설정된 위치에 캠페인 + 브랜드/매장/카테고리에 캠페인 진행
+**일반:** 설정된 위치에 캠페인 + 브랜드/매장/카테고리에 캠페인 진행
 
 **주거지:** 설정된 위치(행정구역)의 주거지 지역에 캠페인 매칭
 

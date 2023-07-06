@@ -87,7 +87,7 @@ description: Lite, Basic, Premium membership
 
 ### 4. 지오펜스 그 목록
 
-![](<../../.gitbook/assets/image (29).png>)
+![](<../../.gitbook/assets/image (29) (1).png>)
 
 1\) ‘생성하기’ 버튼을 클릭하면 지오펜스 그룹 등록 화면으로 이동합니다.
 

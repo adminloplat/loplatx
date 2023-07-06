@@ -21,9 +21,7 @@ description: 캠페인 생성>캠페인 기본 설정
 
 미리 설정한 세그먼트가 없을 경우에는 **‘모든 사용자’**가 기본으로 제공됩니다.
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
-
-![](<../../.gitbook/assets/image (52).png>)
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 1. 블랙리스트 적용하기: 캠페인 리스트에서 작성한 블랙리스트를 해당 캠페인에 적용하는 기능입니다
 2. 설정한 사용자 세그먼트 이름입니다.
@@ -32,7 +30,7 @@ description: 캠페인 생성>캠페인 기본 설정
 
 #### <mark style="color:blue;">**\[세그먼트 선택]**</mark>
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 1\. 사용자 세그먼트에서 설정한 방문 활동 기간입니다.
 
@@ -75,3 +73,4 @@ description: 캠페인 생성>캠페인 기본 설정
 광고ID를 추가하고 캠페인 생성 > 캠페인 메시지 설정 > 메시지 설정 에서 테스트 모드를 선택하면 ‘테스트’, 그외 1일 1회 / 기간 내 1회 / 발송 후 시간 경과 후 재발 송 활성화 를 선택할 경우 ‘광고ID로 표시 합니다.
 
 ![](<../../.gitbook/assets/image (31).png>)
+
