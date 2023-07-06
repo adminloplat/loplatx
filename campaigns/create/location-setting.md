@@ -6,7 +6,7 @@ description: 캠페인 생성>캠페인 위치 설정
 
 ## <mark style="color:blue;">**위치 설정(일반/주거지 캠페인)**</mark>
 
-<figure><img src="../../.gitbook/assets/image (29).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image.png" alt="" width="375"><figcaption></figcaption></figure>
 
 **일반:** 설정된 위치에 캠페인 + 브랜드/매장/카테고리에 캠페인 진행
 

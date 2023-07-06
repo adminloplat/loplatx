@@ -61,7 +61,7 @@ description: Lite, Basic, Premium membership
 
 ### 캠페인 요약
 
-![](<../../.gitbook/assets/image (1) (2).png>)
+![](<../../.gitbook/assets/image (1) (2) (1).png>)
 
 캠페인 리스트에서 캠페인명을 클릭시 캠페인 요약 페이지로 이동합니다.
 
@@ -121,7 +121,7 @@ description: Lite, Basic, Premium membership
 
 <figure><img src="../../.gitbook/assets/image (12).png" alt=""><figcaption><p>일반 메시지</p></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (11).png" alt=""><figcaption><p>A/B 테스트 메시지</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (11) (2).png" alt=""><figcaption><p>A/B 테스트 메시지</p></figcaption></figure>
 
 메시지 성과는 일반 메시지와 A/B 메시지 성과 모두 확인이 가능합니다.
 

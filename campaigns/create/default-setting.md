@@ -30,7 +30,7 @@ description: 캠페인 생성>캠페인 기본 설정
 
 #### <mark style="color:blue;">**\[세그먼트 선택]**</mark>
 
-<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (2).png" alt=""><figcaption></figcaption></figure>
 
 1\. 사용자 세그먼트에서 설정한 방문 활동 기간입니다.
 
