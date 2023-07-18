@@ -4,6 +4,14 @@ description: 캠페인 생성 > 메시지 설정
 
 # 캠페인 연동
 
+Breze를 사용하기 위해선 먼저 loplat X와 시스템 연동이 필요합니다.&#x20;
+
+{% content-ref url="../../integration/braze.md" %}
+[braze.md](../../integration/braze.md)
+{% endcontent-ref %}
+
+위 **braze 페이지를 참고**하시고 연동 후 캠페인 연동을 사용하세요.
+
 ## 1. Braze dashboard -> loplat X(API-Triggered delivery 사용)
 
 {% embed url="https://youtu.be/VsJcM9bdR70" %}

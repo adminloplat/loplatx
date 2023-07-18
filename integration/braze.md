@@ -16,3 +16,11 @@ description: loplat X와 braze dashboard 연동하기
      * canvas.list
 3. API를 만들었다면, loplat X API 관리에 braze rest API를 추가 해주세요
 4. 권한이 모두 확인되면 API는 정상적으로 연결됩니다.
+
+모든 연동이 완료되었다면, 캠페인 연동을 사용할 수 있습니다.&#x20;
+
+{% content-ref url="../campaigns/create/campaign-intergration.md" %}
+[campaign-intergration.md](../campaigns/create/campaign-intergration.md)
+{% endcontent-ref %}
+
+이제 캠페인 연동을 통해 자유롭게 캠페인을 진행하세요.&#x20;
