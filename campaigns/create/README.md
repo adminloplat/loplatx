@@ -10,7 +10,7 @@ description: Lite, Basic, Premium membership
 
 좌측 메뉴에서 **‘Campaigns > 캠페인’** 메뉴를 클릭하면 캠페인 등록을 위한 가이드 화면이 표시됩니다.
 
-<figure><img src="../../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/생성하기-기본 24.jpg" alt=""><figcaption></figcaption></figure>
 
 <mark style="color:blue;">**캠페인은 7가지 절차를 통해 등록할 수 있습니다.**</mark>
 
