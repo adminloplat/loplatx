@@ -38,7 +38,7 @@
 
 * [Braze 대시보드 연동 설정](integration/braze.md)
 
-## 🖥 Usage Monitoring
+## 🖥️ Usage Monitoring
 
 * [SDK 사용 현황](usage-monitoring/sdk.md)
 * [POI 수집 현황](usage-monitoring/poi.md)
